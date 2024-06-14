@@ -4,7 +4,7 @@
     <br />
     <br />
 
-    [![Profile Card](https://i.postimg.cc/LX0WwBWj/Copia-de-reallygreatsite-2.png)](https://i.postimg.cc/LX0WwBWj/Copia-de-reallygreatsite-2.png)
+    [![Copia-de-reallygreatsite-2.png](https://i.postimg.cc/LX0WwBWj/Copia-de-reallygreatsite-2.png)](https://postimg.cc/CBkJfDSK)
 
   </h1>
 </div>
@@ -24,7 +24,7 @@ Desarrollo basado en los criterios del Challengs 2 Alura Consumo de api Gutendex
 
 # 💻 Menu:
 
-[![Copia-de-reallygreatsite-2.png](https://i.postimg.cc/LX0WwBWj/Copia-de-reallygreatsite-2.png)](https://postimg.cc/CBkJfDSK)
+[![Sin-t-tulo.jpg](https://i.postimg.cc/jdZLnDBB/Sin-t-tulo.jpg)](https://postimg.cc/HV8pfkYt)
 
 
 
