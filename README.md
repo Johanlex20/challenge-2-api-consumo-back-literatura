@@ -4,11 +4,7 @@
     <br />
     <br />
 
-[![Profile Card](https://i.postimg.cc/LX0WwBWj/Copia-de-reallygreatsite-2.png)](https://i.postimg.cc/LX0WwBWj/Copia-de-reallygreatsite-2.png)
-
-[Copia-de-reallygreatsite-2.png](https://postimg.cc/CBkJfDSK)
-
-[![Copia-de-reallygreatsite-2.png](https://i.postimg.cc/LX0WwBWj/Copia-de-reallygreatsite-2.png)](https://postimg.cc/CBkJfDSK)
+    [![Profile Card](https://i.postimg.cc/LX0WwBWj/Copia-de-reallygreatsite-2.png)](https://i.postimg.cc/LX0WwBWj/Copia-de-reallygreatsite-2.png)
 
   </h1>
 </div>
@@ -26,9 +22,27 @@ Desarrollo basado en los criterios del Challengs 2 Alura Consumo de api Gutendex
 
 ## 💻 FUNCIONES DEL DESARROLLO💻
 
+# 💻 Menu:
+
+[![Copia-de-reallygreatsite-2.png](https://i.postimg.cc/LX0WwBWj/Copia-de-reallygreatsite-2.png)](https://postimg.cc/CBkJfDSK)
 
 
 
+# 💻 Manejo Informacion almacenada en DB ya consumida de la API-Gutendex:
+
+[![2.jpg](https://i.postimg.cc/8P17CRXh/2.jpg)](https://postimg.cc/w3Gqfmpv)
+
+
+
+# 💻 Top Libros mas descargados:
+
+[![3.jpg](https://i.postimg.cc/jS2CHsb2/3.jpg)](https://postimg.cc/Jsw1mCtC)
+
+
+
+# 💻 Tablas DB :
+
+[![4.jpg](https://i.postimg.cc/XYPqxTj8/4.jpg)](https://postimg.cc/VJjzkZbr)
 
 ## 💻 IDES/ INSTALACIÓN O REQUERIMIENTOS💻
 - MAVEN
