@@ -1,11 +1,11 @@
 <div align="center">
   <h1 align="center">
-
- 
+    LITERAGOOD
+    <br />
+    <br />
 
 [![BANMNER-LOW.jpg](https://i.postimg.cc/k4fBnm06/BANMNER-LOW.jpg)](https://postimg.cc/k6RnckXq)
-   <br />
-    LITERAGOOD
+
   </h1>
 </div>
 
@@ -50,7 +50,7 @@ Desarrollo basado en los criterios del Challengs 2 Alura Consumo de api Gutendex
 - MAVEN
 - LIBRERIAS SPRING - JPA - POSTGRESDB
 - INTELIJ IDEA
-- P0SMAN
+- P0
 
 
 ## 🌟 Tecnologías usadas 🌟
